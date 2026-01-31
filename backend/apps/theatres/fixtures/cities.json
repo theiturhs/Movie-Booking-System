@@ -1,0 +1,58 @@
+[
+  {
+    "model": "theatres.city",
+    "pk": 1,
+    "fields": {
+      "cityName": "Bengaluru",
+      "activeState": true
+    }
+  },
+  {
+    "model": "theatres.city",
+    "pk": 2,
+    "fields": {
+      "cityName": "Mumbai",
+      "activeState": true
+    }
+  },
+  {
+    "model": "theatres.city",
+    "pk": 3,
+    "fields": {
+      "cityName": "Delhi",
+      "activeState": true
+    }
+  },
+  {
+    "model": "theatres.city",
+    "pk": 4,
+    "fields": {
+      "cityName": "Chennai",
+      "activeState": true
+    }
+  },
+  {
+    "model": "theatres.city",
+    "pk": 5,
+    "fields": {
+      "cityName": "Hyderabad",
+      "activeState": true
+    }
+  },
+  {
+    "model": "theatres.city",
+    "pk": 6,
+    "fields": {
+      "cityName": "Kolkata",
+      "activeState": true
+    }
+  },
+  {
+    "model": "theatres.city",
+    "pk": 7,
+    "fields": {
+      "cityName": "Ahmedabad",
+      "activeState": true
+    }
+  }
+]

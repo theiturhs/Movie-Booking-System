@@ -1,0 +1,38 @@
+[
+  {
+    "model": "theatres.theatre",
+    "pk": 1,
+    "fields": {
+      "theatreName": "PVR Orion",
+      "activeState": true,
+      "cityId": 1
+    }
+  },
+  {
+    "model": "theatres.theatre",
+    "pk": 2,
+    "fields": {
+      "theatreName": "INOX",
+      "activeState": true,
+      "cityId": 2
+    }
+  },
+  {
+    "model": "theatres.theatre",
+    "pk": 3,
+    "fields": {
+      "theatreName": "PVR Orion",
+      "activeState": true,
+      "cityId": 7
+    }
+  },
+  {
+    "model": "theatres.theatre",
+    "pk": 4,
+    "fields": {
+      "theatreName": "INOX",
+      "activeState": true,
+      "cityId": 5
+    }
+  }
+]
