@@ -3,60 +3,8 @@
     "model": "theatres.movie",
     "pk": 1,
     "fields": {
-      "movieName": "Interstellar 1",
-      "startTime": "13:00:00",
-      "endTime": "15:00:00",
-      "date": "2026-02-02",
-      "rating": "4.8",
-      "screenId": 1
-    }
-  },
-  {
-    "model": "theatres.movie",
-    "pk": 2,
-    "fields": {
-      "movieName": "Interstellar 2",
-      "startTime": "16:00:00",
-      "endTime": "17:00:00",
-      "date": "2026-02-02",
-      "rating": "4.8",
-      "screenId": 1
-    }
-  },
-  {
-    "model": "theatres.movie",
-    "pk": 3,
-    "fields": {
-      "movieName": "Interstellar 3",
-      "startTime": "18:00:00",
-      "endTime": "20:00:00",
-      "date": "2026-02-02",
-      "rating": "4.8",
-      "screenId": 1
-    }
-  },
-  {
-    "model": "theatres.movie",
-    "pk": 4,
-    "fields": {
-      "movieName": "Interstellar 4",
-      "startTime": "13:00:00",
-      "endTime": "15:00:00",
-      "date": "2026-02-03",
-      "rating": "4.8",
-      "screenId": 1
-    }
-  },
-  {
-    "model": "theatres.movie",
-    "pk": 5,
-    "fields": {
-      "movieName": "Interstellar 1",
-      "startTime": "13:00:00",
-      "endTime": "15:00:00",
-      "date": "2026-02-03",
-      "rating": "4.8",
-      "screenId": 3
+      "name": "Interstellar",
+      "rating": "4.8"
     }
   }
 ]

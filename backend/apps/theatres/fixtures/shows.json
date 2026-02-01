@@ -1,0 +1,57 @@
+[
+  {
+    "model": "theatres.show",
+    "pk": 1,
+    "fields": {
+      "movie": 1,
+      "screen": 1,
+      "date": "2026-02-02",
+      "start_time": "13:00:00",
+      "end_time": "15:00:00"
+    }
+  },
+  {
+    "model": "theatres.show",
+    "pk": 2,
+    "fields": {
+      "movie": 1,
+      "screen": 1,
+      "date": "2026-02-02",
+      "start_time": "16:00:00",
+      "end_time": "17:00:00"
+    }
+  },
+  {
+    "model": "theatres.show",
+    "pk": 3,
+    "fields": {
+      "movie": 1,
+      "screen": 1,
+      "date": "2026-02-02",
+      "start_time": "18:00:00",
+      "end_time": "20:00:00"
+    }
+  },
+  {
+    "model": "theatres.show",
+    "pk": 4,
+    "fields": {
+      "movie": 1,
+      "screen": 1,
+      "date": "2026-02-03",
+      "start_time": "13:00:00",
+      "end_time": "15:00:00"
+    }
+  },
+  {
+    "model": "theatres.show",
+    "pk": 5,
+    "fields": {
+      "movie": 1,
+      "screen": 3,
+      "date": "2026-02-03",
+      "start_time": "13:00:00",
+      "end_time": "15:00:00"
+    }
+  }
+]

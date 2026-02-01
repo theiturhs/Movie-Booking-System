@@ -3,46 +3,48 @@
     "model": "theatres.screen",
     "pk": 1,
     "fields": {
-      "screenName": "Audi 1",
-      "theatreId": 1
+      "name": "Audi 1",
+      "theatre": 1
     }
-  },{
+  },
+  {
     "model": "theatres.screen",
     "pk": 2,
     "fields": {
-      "screenName": "Audi 2",
-      "theatreId": 1
+      "name": "Audi 2",
+      "theatre": 1
     }
-  },{
+  },
+  {
     "model": "theatres.screen",
     "pk": 3,
     "fields": {
-      "screenName": "Audi 1",
-      "theatreId": 2
+      "name": "Audi 1",
+      "theatre": 2
     }
   },
   {
     "model": "theatres.screen",
     "pk": 4,
     "fields": {
-      "screenName": "Audi 1",
-      "theatreId": 3
+      "name": "Audi 1",
+      "theatre": 3
     }
   },
   {
     "model": "theatres.screen",
     "pk": 5,
     "fields": {
-      "screenName": "Audi 2",
-      "theatreId": 3
+      "name": "Audi 2",
+      "theatre": 3
     }
   },
   {
     "model": "theatres.screen",
     "pk": 6,
     "fields": {
-      "screenName": "Audi 1",
-      "theatreId": 4
+      "name": "Audi 1",
+      "theatre": 4
     }
   }
 ]
